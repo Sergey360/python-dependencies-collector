@@ -32,7 +32,6 @@ Run the script:
 python python-dependencies-collector.py
 ```
 
-
 ## Output
 
 The script generates two files:
@@ -40,8 +39,6 @@ The script generates two files:
 - `all_dependencies.txt` : Sorted list of all dependencies with versions.
 - `all_dependencies_clean.txt` : Sorted list of all dependencies without versions and duplicates.
 
-
 ## License
 
 This project is licensed under the MIT License.
-
